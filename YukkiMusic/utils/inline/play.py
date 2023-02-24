@@ -67,12 +67,18 @@ def stream_markup_timer(_, videoid, chat_id, played, dur):
         ],
         [
             InlineKeyboardButton(
-                text="🏠 Support",
-                url="https://telegram.dog/AviaxSupport",
+                text="𝗢𝘄𝗻𝗲𝗿",
+                url="https://t.me/Kalakar_Sangram",
             ),
             InlineKeyboardButton(
                 text=_["PL_B_3"],
                 callback_data=f"PanelMarkup {videoid}|{chat_id}",
+            ),
+        ],
+        [
+            InlineKeyboardButton(
+                text="💞 𝗦𝘂𝗽𝗽𝗼𝗿𝘁 💞"
+                url="https://t.me/WorldChattingFriendsWCF"
             ),
         ],
         [
@@ -122,12 +128,18 @@ def stream_markup(_, videoid, chat_id):
     buttons = [
         [
             InlineKeyboardButton(
-                text="🏠 Support",
-                url="https://telegram.dog/AviaxSupport",
+                text="𝗢𝘄𝗻𝗲𝗿",
+                url="https://telegram.dog/Kalakar_Sangram",
             ),
             InlineKeyboardButton(
                 text=_["PL_B_3"],
                 callback_data=f"PanelMarkup None|{chat_id}",
+            ),
+        ],
+        [
+            InlineKeyboardButton(
+                text="💞 𝗦𝘂𝗽𝗽𝗼𝗿𝘁 💞"
+                url="https://t.me/WorldChattingFriendsWCF"
             ),
         ],
         [
