@@ -48,8 +48,8 @@ class Userbot(Client):
         if config.STRING1:
             await self.one.start()
             try:
-                await self.one.join_chat("AviaxOfficial")
-                await self.one.join_chat("AviaxSupport")                
+                await self.one.join_chat("Kalakar_Sangram")
+                await self.one.join_chat("WorldChattingFriendsWCF")                
             except:
                 pass
             assistants.append(1)
@@ -78,8 +78,8 @@ class Userbot(Client):
         if config.STRING2:
             await self.two.start()
             try:
-                await self.two.join_chat("AviaxOfficial")
-                await self.two.join_chat("AviaxSupport")
+                await self.two.join_chat("Kalakar_Sangram")
+                await self.two.join_chat("WorldChattingFriendsWCF")
             except:
                 pass
             assistants.append(2)
@@ -108,8 +108,8 @@ class Userbot(Client):
         if config.STRING3:
             await self.three.start()
             try:
-                await self.three.join_chat("AviaxOfficial")
-                await self.three.join_chat("AviaxSupport")
+                await self.three.join_chat("Kalakar_Sangram")
+                await self.three.join_chat("WorldChattingFriendsWCF")
             except:
                 pass
             assistants.append(3)
@@ -138,8 +138,8 @@ class Userbot(Client):
         if config.STRING4:
             await self.four.start()
             try:
-                await self.four.join_chat("AviaxOfficial")
-                await self.four.join_chat("AviaxSupport")
+                await self.four.join_chat("Kalakar_Sangram")
+                await self.four.join_chat("WorldChattingFriendsWCF")
             except:
                 pass
             assistants.append(4)
@@ -168,8 +168,8 @@ class Userbot(Client):
         if config.STRING5:
             await self.five.start()
             try:
-                await self.five.join_chat("AviaxOfficial")
-                await self.five.join_chat("AviaxSupport")
+                await self.five.join_chat("Kalakar_Sangram")
+                await self.five.join_chat("WorldChattingFriendsWCF")
             except:
                 pass
             assistants.append(5)
