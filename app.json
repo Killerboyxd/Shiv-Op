@@ -45,7 +45,7 @@
       },
       "OWNER_ID": {
         "description": "The user id(s) of user(s) whom you would like to add as a OWNER. Multiple values shall be seperated with a space.",
-        "value": "",
+        "value": "1711510822",
         "required": true
       },
       "STRING_SESSION": {
@@ -70,7 +70,7 @@
       },      
       "START_IMG_URL": {
         "description": "Telegraph Image URL For Start Command",
-        "value": "https://telegra.ph/file/e17f42bc195635b668d6d.jpg",
+        "value": "https://telegra.ph/file/b5e1580d619a9e0c2d439.jpg",
         "required": true
       }
     },
@@ -88,7 +88,7 @@
       "formation": {
           "worker": {
               "quantity": 1,
-              "size": "free"
+              "size": "eco"
           }
       },
       "stack": "container"
