@@ -1,11 +1,11 @@
-<img src="https://telegra.ph/file/7f06a0170136896d8bf46.jpg" align="right" width="200" height="200"/>
+<img src="https://telegra.ph/file/c4c74ca853dbe426b5075.jpg" align="right" width="200" height="200"/>
 
 <h3>⚠️ This repo is just a clone of <a href="https://github.com/TechShreyash/SiestaXMusic">SiestaXMusic</a>. All credits goes to devs of <a href="https://github.com/TechShreyash/SiestaXMusic/graphs/contributors">SiestaXMusic</a>.</h3>
 
 
 # AviaxMusic
 
-[AviaxMusic](https://github.com/TeamAviax/AviaxMusic) is a Powerful Telegram Music+Video Bot written in Python using Pyrogram and Py-Tgcalls by which you can stream songs, video and even live streams in your group calls via various sources.
+[ShivxMusic](https://github.com/TeamAviax/AviaxMusic) is a Powerful Telegram Music+Video Bot written in Python using Pyrogram and Py-Tgcalls by which you can stream songs, video and even live streams in your group calls via various sources.
 
 * Youtube, Soundcloud, Apple Music, Spotify, Resso and Telegram Audios & Videos support.
 * Written from scratch, making it stable and less crashes.
@@ -26,7 +26,7 @@ This project is based on [Pyrogram](https://github.com/pyrogram) and [Py-Tgcalls
 * The project uses the font [`Poppins`](../assets/font.ttf) as its main font for the thumbnails.
 * The projects uses attractive images and icons which you can get in [assets](../assets/) directory.
 
-For more information on the technologies that power the AviaxMusic, check out the [Docs](https://notreallyshikhar.gitbook.io/yukkimusicbot/).
+For more information on the technologies that power the ShivxMusic, check out the [Docs](https://notreallyshikhar.gitbook.io/yukkimusicbot/).
 
 
 
@@ -69,7 +69,7 @@ For more information on the technologies that power the AviaxMusic, check out th
 <details>
     <summary><b> Detailed Heroku Depoyment Process » </b></summary>
 
-<img src="https://telegra.ph/file/672efa7b8160ed39c6e86.jpg" align="right" width="350" height="700"/>
+<img src="https://telegra.ph/file/c4c74ca853dbe426b5075.jpg" align="right" width="350" height="700"/>
 
 ### 🚀 Deploy Process
 - Click on the deploy button above and login to your [heroku account](https://heroku.com/login) .
@@ -117,15 +117,15 @@ shikhar@MacBook~ $ bash start
 > Not Getting VPS Method? [Watch Tutorial](https://telegram.me/TheYukki/2275)
 
 
-<img src="https://telegra.ph/file/6b75b57da50ef1183fcdc.jpg" align="center">
+<img src="https://telegra.ph/file/c4c74ca853dbe426b5075.jpg" align="center">
 
 
 ## 🏷 Support
 
 Reach out to the maintainer at one of the following places:
 
-- [Updates Channel](https://telegram.me/AviaxOfficial)
-- [Support Group](https://telegram.me/AviaxSupport)
+- [Updates Channel](https://telegram.me/do_dil_ek_jaan143)
+- [Support Group](https://telegram.me/RONNY_KI_DUNIYA)
 
 ## 🎗 Project assistance
 
