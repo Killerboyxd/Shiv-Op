@@ -40,7 +40,7 @@ SONG_DOWNLOAD_DURATION = int(
 LOG_GROUP_ID = int(getenv("LOG_GROUP_ID", ""))
 
 # A name for your Music bot.
-MUSIC_BOT_NAME = getenv("MUSIC_BOT_NAME","Red wine")
+MUSIC_BOT_NAME = getenv("MUSIC_BOT_NAME","SHIV MUSIC")
 
 # Your User ID.
 OWNER_ID = list(
@@ -54,7 +54,7 @@ HEROKU_API_KEY = getenv("HEROKU_API_KEY")
 HEROKU_APP_NAME = getenv("HEROKU_APP_NAME")
 
 # For customized or modified Repository
-UPSTREAM_REPO = "https://github.com/Team-RedWine/Music-Op"
+UPSTREAM_REPO = "https://github.com/Killerboyxd/Shiv-Op"
 UPSTREAM_BRANCH = "master"
 
 # GIT TOKEN ( if your edited repo is private)
@@ -154,11 +154,11 @@ autoclean = []
 
 
 # Images
-START_IMG_URL = getenv("START_IMG_URL", "")
+START_IMG_URL = getenv("START_IMG_URL", "https://telegra.ph/file/c4c74ca853dbe426b5075.jpg")
 
 PING_IMG_URL = getenv(
     "PING_IMG_URL",
-    "assets/Ping.jpeg",
+    "https://telegra.ph/file/c4c74ca853dbe426b5075.jpg",
 )
 
 PLAYLIST_IMG_URL = getenv(
